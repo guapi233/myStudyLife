@@ -1,0 +1,17 @@
+git clone 仓库地址         【从页面上克隆项目】
+
+touch 文件  【创建文件】
+
+git add 文件 【添加到暂存区】
+
+git commit -m '描述'   【提交到仓库】
+
+git push 【提交到github】
+
+git config -- global user.name '用户名'  【设置用户名】
+
+git config -- global user.email ‘邮箱’ 【设置邮箱地址】
+
+git config --list    【查看设置】
+
+git status 【查看当前git状态】
